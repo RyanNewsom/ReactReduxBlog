@@ -1,6 +1,5 @@
-# ReduxSimpleStarter
-
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+# ReactReduxBlog
+A react redux blog done by following a [course on udemy](https://www.udemy.com/react-redux/).
 
 ### Getting Started
 
